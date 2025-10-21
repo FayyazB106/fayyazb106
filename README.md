@@ -56,9 +56,9 @@ For my graduation project, I developed a simple web app powered by a **deep lear
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](#)
 [![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)](#)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](#)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-white?style=for-the-badge&logo=huggingface&logoColor=F9AB00)](#)
 
 ## 🤝 Let's Connect 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfayyaz-baig/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fayyaz.baig10@gmail.com)
+[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fayyaz.baig10@gmail.com)
