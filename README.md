@@ -1,4 +1,4 @@
-# Hi 👋, I'm Fayyaz Baig
+# Hi 👋, I'm Fayyaz
 
 I'm a fresh Computer Science graduate with a passion for continuous learning and problem-solving.  
 Currently, I'm exploring **Laravel** as part of my journey to becoming a **Full Stack Developer**.
